@@ -1,0 +1,24 @@
+!DOCITYPE html
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8"/>
+        <title> NAILY </title?
+        <link rel="stlyesheet" href="css/my_page.css" type="text/css"/?
+    </head>
+    <body>
+        <div class="container">
+            <h1> h 태그는 제목 </h1>
+            <h2> 그 다음 중요한 제목 </h2>
+            <p> p태그는 문단을 구성할때 </p>
+            <a href="https://www.naver.com">
+            </a>
+            <img src="sample.jpg" alt="실제보이진 않지만 이미지 부연설명">
+            <ol>
+                <li> HTML </li>
+                <li> CSS </li>
+            <ul>
+                <li> vaseline </li>
+            <input tyoe="text" name="id_input" value="something">
+        </div>
+    </body>
+</html>

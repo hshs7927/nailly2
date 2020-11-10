@@ -1,0 +1,16 @@
+h1{
+    font-weight: bold;
+}
+
+#only-one{
+    text-align: center;
+}
+
+.escription{
+    font-size: 2rem;
+    color: red;
+}
+
+li.items{
+    color: lime;
+}
